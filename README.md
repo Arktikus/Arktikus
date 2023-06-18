@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Minecraft Plugins<br>🤝 I’m looking for help with my code<br>🌱 I’m currently learning
+🔭 I’m currently working on Minecraft Mods<br>🤝 I’m looking for help with my code<br>🌱 I’m currently learning
 
 
 ## 🌐 Socials:
