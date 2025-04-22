@@ -1,7 +1,5 @@
 # 💫 About Me:
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/47CmCXgW8k) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ArktikusTwitch) 
+ 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![GDScript](https://img.shields.io/badge/gdscript-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
